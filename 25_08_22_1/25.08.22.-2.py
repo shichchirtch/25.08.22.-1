@@ -26,6 +26,7 @@ for x in lst_in:
 
 unique_books = len(set(lst_bs))
 
+
 print(unique_books)
 
 
